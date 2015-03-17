@@ -1,0 +1,107 @@
+#content h2 {
+    font-size: 24px;
+    line-height: 120%;
+    letter-spacing: -1px;
+    font-weight: bold;
+    color: #ff6000;
+    padding-bottom: 10px;
+   /*margin-bottom: 18px; */
+}
+
+#content h3 {
+    line-height: 120%;
+    letter-spacing: -1px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #FC6000;
+  padding-bottom: 10px;
+    /*margin-bottom: 18px; */
+}
+
+#content h4 {
+    font-size: 16px;
+    color: #666;
+    line-height: 120%;
+    letter-spacing: -1px;
+    font-weight: bold;
+   	padding-bottom: 10px;
+    /* margin-bottom: 18px; */
+}
+
+  #content p {
+    margin-bottom: 10px;
+    text-align: left;
+    line-height: 120%;
+  }
+  
+    #content a {
+      color: #515151;
+      text-decoration: none;
+    }
+
+    #content a:hover {
+      color: #ff6000;
+    }
+
+
+.item-page p img,
+.blog p img {
+  margin: 0 5px 5px;
+}
+
+.item-page img[align=left],
+.blog img[align=left] {
+  margin: 0 10px 5px 0;
+}
+
+.item-page img[align=right],
+.blog img[align=right] {
+  margin: 0 0 5px 10px;
+}
+
+
+.item-page ul,
+.item-page ol,
+.blog ul,
+.blog ol {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+
+.item-page ul li,
+.blog ul li {
+  list-style: disc;
+}
+
+.item-page ol li,
+.blog ol li {
+    list-style: decimal;
+}
+
+
+.item-page li li,
+.blog li li {
+  list-style: circle;
+  margin-left: 10px;
+}
+
+.item-page strong,
+.blog strong {
+  font-weight: bold;
+}
+
+.item-page em,
+.blog em {
+  font-style: italic;
+}
+
+.item-page ins,
+.blog ins {
+  text-decoration: underline;
+}
+
+.item-page del,
+.blog del {
+  text-decoration: line-through;
+}

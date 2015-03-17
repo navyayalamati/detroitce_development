@@ -1,0 +1,321 @@
+!!!
+%html{:lang => "en"}
+  / Mirrored from www.sdlg.com.au/ by HTTrack Website Copier/3.x [XR&amp;CO'2008], Wed, 11 Mar 2015 12:35:16 GMT
+  / Added by HTTrack
+  %meta{:content => "text/html;charset=utf-8", "http-equiv" => "content-type"}
+    / /Added by HTTrack
+    %head
+      %meta{:content => "text/html; charset=utf-8", "http-equiv" => "content-type"}/
+      %title Home - SDLG Australia
+      %link{:href => "indexc0d0.html?format=feed&amp;type=rss", :rel => "alternate", :title => "RSS 2.0", :type => "application/rss+xml"}/
+      %link{:href => "index7b17.html?format=feed&amp;type=atom", :rel => "alternate", :title => "Atom 1.0", :type => "application/atom+xml"}/
+      
+      :javascript
+        window.addEvent('load', function() {
+        				new JCaption('img.caption');
+        			});
+        		window.addEvent('domready', function() {
+        
+        			SqueezeBox.initialize({});
+        			SqueezeBox.assign($$('a.modal'), {
+        				parse: 'rel'
+        			});
+        		});
+           
+           
+      
+      %link{:href => "images/favicon.ico", :rel => "shortcut icon", :type => "image/x-icon"}/
+      
+      :javascript
+        (function(a,e,c,f,g,b,d){var h={ak:"976071733",cl:"AsA1CLbP-1YQtdi20QM"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[f]||(a[f]=h.ak);b=e.createElement(g);b.async=1;b.src="../assets/loader.js";d=e.getElementsByTagName(g)[0];d.parentNode.insertBefore(b,d);a._googWcmGet=function(b,d,e){a[c](2,b,h,d,null,new Date,e)}})(window,document,"_googWcmImpl","_googWcmAk","script");
+      :javascript
+        function PhoneNumUpdate() {
+        _googWcmGet('number', '1300 887 530')
+        }
+        / End Call Conversion Tracking
+      :javascript
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement( o ),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','../assets/analytics.js','ga');
+        ga('create', 'UA-46605461-3', 'sdlg.com.html');
+        ga('send', 'pageview');
+      %body{:onload => "PhoneNumUpdate()"}
+      / Google Tag Manager
+      %noscript
+        %iframe{:height => "0", :src => "http://www.googletagmanager.com/ns.html?id=GTM-WHCN6S", :style => "display:none;visibility:hidden", :width => "0"}
+      :javascript
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WHCN6S');
+                / End Google Tag Manager
+      / Container Start
+      #container
+        / Header Start
+        #header
+          /
+            <h1 id="logo" title="Shandong Lingong Construction Machinery Co., Ltd.">
+            <a href="/">Shandong Lingong Construction Machinery Co., Ltd.</a>
+            </h1>
+          .moduletable
+            .custom
+              %h1#logo{:title => "Shandong Lingong Construction Machinery Co., Ltd."}
+                %a{:href => "index.html", :title => "Home"} Shandong Lingong Construction Machinery Co., Ltd.
+          / <h2 id="slogan" title="SDLG - Reliability in Action">SDLG – The experts at delivery value for money</h2>
+          .moduletable
+            .custom
+              %h2#slogan{:title => "SDLG - Reliability in Action"}
+                SDLG &ndash; The Experts at Delivering Value for Money
+          / Main Top Start
+          .moduletable
+            %ul.menu-top
+              %li.item-128.current.active
+                %a{:href => "/homes"} Home
+              %li.item-129
+                %a{:href => "/homes"} Sitemap
+              %li.item-130
+                %a{:href => "/homes"} Search
+              %li.item-131
+                %a{:href => "http://www.cjdequipment.ihub.com.au/", :target => "_blank"} Used Equipment
+          / Main Top Finish
+          %h3#phone{:title => "1300 887 530"}
+            %nobr
+              %span.number 1300 887 530
+          / Main Menu Start
+          .moduletable_menu
+            %ul.menu-main
+              %li.item-107.deeper.parent
+                %a{:href => "homes/about"} About
+                %ul
+                  %li.item-112
+                    %a{:href => "about/about-sdlg-china.html"} About SDLG China
+                  %li.item-114
+                    %a{:href => "about/about-sdlg-australia.html"} About CJD Equipment
+                  %li.item-115
+                    %a{:href => "about/history-timeline.html"} History Timeline
+                  %li.item-113
+                    %a{:href => "about/gallery.html"} Gallery
+              %li.item-132
+                %a{:href => "news.html"} News
+              %li.item-117
+                %a{:href => "/homes/products"} Products
+              %li.item-110
+                %a{:href => "/homes/parts"} Parts  Service
+              %li.item-133
+                %a{:href => "/homes/dealers"} Dealers
+              %li.item-111
+                %a{:href => "/homes/contact"} Contact
+          / Main Menu Finish
+          .clear
+        / Header Finish
+        / Subheader Start
+        #subheader
+        .banner
+          .moduletable
+            .custom
+              %p
+                #slideshow-1-55003685a2e31.wk-slideshow.wk-slideshow-default{"data-options" => "{\"style\":\"default\",\"autoplay\":1,\"interval\":5000,\"width\":990,\"height\":264,\"duration\":500,\"index\":0,\"order\":\"default\",\"navigation\":0,\"buttons\":0,\"slices\":20,\"animated\":\"fade\",\"caption_animation_duration\":500}", "data-widgetkit" => "slideshow"}
+                  %div
+                    %ul.slides
+                      %li
+                        %article.wk-content.clearfix
+                          %p
+                            %img{:alt => "", :src => "assets/b.jpg", :style => "width: 990px; height: 264px;"}/
+                      %li
+                        %article.wk-content.clearfix
+                          %p
+                            %img{:alt => "", "data-src" => "/images/banners/banner_home/c.jpg", :src => "data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==", :style => "width: 990px; height: 264px;"}/
+                      %li
+                        %article.wk-content.clearfix
+                          %p
+                            %img{:alt => "", "data-src" => "/images/banners/banner_home/d.jpg", :src => "data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==", :style => "width: 990px; height: 264px;"}/
+                      %li
+                        %article.wk-content.clearfix
+                          %p
+                            %img{:alt => "", "data-src" => "/images/banners/banner_home/e.jpg", :src => "data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==", :style => "width: 990px; height: 264px;"}/
+                      %li
+                        %article.wk-content.clearfix
+                          %p
+                            %img{:alt => "", "data-src" => "/images/banners/banner_home/f.jpg", :src => "data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==", :style => "width: 990px; height: 264px;"}/
+                      %li
+                        %article.wk-content.clearfix
+                          %p
+                            %img{:alt => "", "data-src" => "/images/banners/banner_home/g.jpg", :src => "data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==", :style => "width: 990px; height: 264px;"}/
+                      %li
+                        %article.wk-content.clearfix
+                          %p
+                            %img{:alt => "", "data-src" => "/images/banners/banner_home/h.jpg", :src => "data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==", :style => "width: 990px; height: 264px;"}/
+                      %li
+                        %article.wk-content.clearfix
+                          %p
+                            %img.cke-resize.cke-resize{:alt => "", "data-src" => "/images/banners/banner_home/a.jpg", :src => "data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==", :style => "width: 990px; height: 264px;"}/
+                    .caption
+                    %ul.captions
+                      %li
+                      %li
+                      %li
+                      %li
+                      %li
+                      %li
+                      %li
+                      %li
+        / Subheader Finish
+        / Subcontainer Start
+        #subcontainer.home
+          #right_home
+            .module_right_home.style-box.color-transparent15
+              %h3 SDLG Corporate Video
+              .content
+                %div
+                  .custom_right_home.style-box.color-transparent15
+                    #video
+                      %a{"data-lightbox" => "on", "data-spotlight" => "on", :href => "/assets/SDLG.swf"}
+                        %img{:alt => "Click to Play", :border => "0", :src => "/assets/video.png", :title => "Click to Play", :width => "195"}/
+            .module_right_home.blank.color-transparent25
+              %h3 Contact Us
+              .content
+                %div
+                  .custom_right_home.blank.color-transparent25
+                    %h4
+                      CJD Equipment
+                    %p
+                      %strong Head Office
+                    %p
+                      54 Great Eastern Highway
+                      %br/
+                      South Guildford WA 6055
+                      %br/
+                      Ph: 08 9478 0000
+                      %br/
+                      Fax: 08 9477 6351
+                      %br/
+                      %strong enquiries@sdlgaustralia.com.au
+                    %p.phone
+                      National&nbsp;Phone:
+                      %br/
+                      %nobr
+                        %span.number 1300 887 530
+          #two_col_home
+            .module_two_col_home.side-gradient
+              %h3 SDLG Loaders - Reliability in Action
+              .content
+                %div
+                  .custom_two_col_home.side-gradient
+                    %ul
+                      %li
+                        %a{:href => "products/37-lg918-wheel-loader-sdlg.html", :title => "LG918L Wheel Loader"}
+                          %img{:alt => "", :src => "/assets/918-thumb.jpg", :style => "height: 73px; width: 80px;"}/
+                        %ul
+                          %li
+                            %a{:href => "products/37-lg918-wheel-loader-sdlg.html", :title => "LG918L Wheel Loader"} LG918
+                      %li
+                        %a{:href => "products/41-lg936l-wheel-loader.html", :title => "LG936L Wheel Loader"}
+                          %img{:alt => "LG936L Wheel Loader", :src => "/assets/936(1).jpg", :style => "height: 73px; width: 80px;"}/
+                        %ul
+                          %li
+                            %a{:href => "products/41-lg936l-wheel-loader.html", :title => "LG936L Wheel Loader"} LG936L
+                      %li
+                        %a{:href => "products/40-lg938l-seriesii-wheel-loader.html", :title => "LG938L Series II Wheel Loader"}
+                          %img{:alt => "LG938L Wheel Loader", :src => "/assets/9382.jpg", :style => "height: 72px; width: 79px;"}/
+                        %ul
+                          %li
+                            %a{:href => "products/40-lg938l-seriesii-wheel-loader.html", :title => "LG938L Series II Wheel Loader"} LG938L
+                            %br/
+                            \&nbsp;
+                      %li
+                        %a{:href => "products/72-lg946l-wheel-loader.html", :title => "LG936L Wheel Loader"}
+                          %img{:alt => "LG936L Wheel Loader", :src => "/assets/946L.jpg", :style => "width: 83px; height: 71px;"}/
+                        %ul
+                          %li
+                            %a{:href => "products/72-lg946l-wheel-loader.html", :title => "LG936L Wheel Loader"} LG946L
+                      %li
+                        %a{:href => "products/38-lg958l-wheel-loader.html", :title => "LG958L Wheel Loader"}
+                          %img{:alt => "LG958L Wheel Loader", :src => "/assets/9582.jpg", :style => "height: 71px; width: 78px;"}/
+                        %ul
+                          %li
+                            %a{:href => "products/38-lg958l-wheel-loader.html", :title => "LG958L Wheel Loader"} LG958L
+                      %li
+                        %a{:href => "products/39-lg959l-wheel-loader.html", :title => "LG959L Wheel Loader"}
+                          %img{:alt => "LG959L Wheel Loader", :src => "/assets/9592.jpg", :style => "height: 71px; width: 78px;"}/
+                        %ul
+                          %li
+                            %a{:href => "products/39-lg959l-wheel-loader.html", :title => "LG959L Wheel Loader"} LG959L
+                      %li
+                        %a{:href => "products/77-lg978l-wheel-loader.html", :target => "_blank"}
+                          %img{:alt => "", :src => "/assets/LG978_studio_shot.jpg", :style => "height: 71px; width: 92px;"}/
+                        %ul
+                          %li
+                            %a{:href => "products/39-lg959l-wheel-loader.html", :title => "LG959L Wheel Loader"} LG978
+          #left_home
+            .modulestyle-box.color-transparent25.module_left_home.dealers.blank.vertical_gradient
+              %h3 Find your local Dealer
+              .content
+                %div
+                  .customstyle-box.color-transparent25.module_left_home.dealers.blank.vertical_gradient
+                    %p.map
+                      %a{:href => "dealers.html", :title => "Click to Enlarge Map"}
+                        %img{:alt => "Dealers Map", :border => "0", :src => "/assets/map_small.png", :width => "185"}/
+                    /
+                      <ul class="dealers">
+                      <li>
+                      <a href="/dealers/wa.html">WA</a></li>
+                      <li>
+                      <a href="/dealers/nsw.html">NSW</a></li>
+                      <li>
+                      <a href="/dealers/qld.html">QLD</a></li>
+                      <li>
+                      <a href="/dealers/sa-and-nt.html">SA &amp;amp; NT</a></li>
+                      <li>
+                      <a href="/dealers/vic-and-tas.html">VIC &amp;amp; TAS</a></li>
+                      </ul>
+                      \//
+          #middle_home
+            .modulecolor-transparent10.module_middle_home.news_middle_home.blank
+              %h3 Latest News
+              .content
+                %div
+                  .newsflashcolor-transparent10.module_middle_home.news_middle_home.blank
+                    %h4.newsflash-titlecolor-transparent10.module_middle_home.news_middle_home.blank
+                      %a{:href => "news/81-%e2%80%9cpurchasing-sdlg-has-been-a-good-decision%2c-we-are-wrapped-and-the-value-for-money-is-outstanding-%e2%80%9d.html"}
+                        “Purchasing SDLG has been a good decision, we are wrapped and the value for money is outstanding.”
+                    %p
+                      \&nbsp;
+                    %div
+                      Opportunities to diversify farm businesses have been invaluable for numerous producers across Australia amid the challenging terms of trade in recent years, and so it has proved on the Lang family&rsquo;s &lsquo;Broadmeadows&rsquo; property at Nankin,&nbsp;near Rockhampton in Queensland.
+                    %div
+                      \&nbsp;
+                    %a.readmore{:href => "news/81-%e2%80%9cpurchasing-sdlg-has-been-a-good-decision%2c-we-are-wrapped-and-the-value-for-money-is-outstanding-%e2%80%9d.html"} Read more...
+            %a#more{:href => "news.html", :title => "Read More Latest News"} Read More Latest News
+        / Subcontainer Finish
+        / Footer Start
+        #footer
+          .moduletable-footer
+            %ul.menu-footer
+              %li.item-124
+                %a{:href => "sitemap.html"} Sitemap
+              %li.item-125
+                %a{:href => "contact-us.html"} Contact Us
+              %li.item-141
+                %a{:href => "dealer-loginlogout.html"} Dealer Login/Logout
+          .moduletable
+            .custom
+              %p
+                A division of
+                / <img height="10" alt="CJD" src="/templates/sdlg/images/cjd.png" />
+                = succeed "." do
+                  %a{:href => "http://www.cjd.com.au/", :target => "_blank"} CJD Equipment Pty. Ltd
+                Copyright 2010 All Rights Reserved
+                %br/
+                %a{:href => "http://www.dashdigital.com.au/"} Built by Dash Digital
+        / Footer Finish
+      / Container Finish
+      /
+        <script type="text/javascript">jQuery.noConflict();</script>
+        <script type="text/javascript" src="/templates/sdlg/fancybox/jquery.fancybox-1.3.1.pack.js"></script>
+        <script type="text/javascript">
+        jQuery("a").filter('.fancybox, [href$=jpg], [href$=jpeg], [href$=gif], [href$=png]').not('[rel=one-big-group]').fancybox({
+        'centerOnScroll': true
+        });
+        </script>
+    / Mirrored from www.sdlg.com.au/ by HTTrack Website Copier/3.x [XR&amp;CO'2008], Wed, 11 Mar 2015 12:35:53 GMT
+    / Added by HTTrack
+    %meta{:content => "text/html;charset=utf-8", "http-equiv" => "content-type"}
+      / /Added by HTTrack

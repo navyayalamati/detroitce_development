@@ -1,0 +1,118 @@
+/* Top Menu Start */
+.menu-top {
+  float: right;
+  font-size: 90%;
+  margin: 10px 20px;
+}
+
+  .menu-top li {
+    border-right: 1px solid #535353;
+    float: left;
+    line-height: 1.25;
+    padding: 0 5px;
+  }
+
+  .menu-top li.item26, .menu-top li:last-child {
+    border: none;
+  }
+
+    .menu-top li a {
+      color: #535353;
+      text-decoration: none;
+    }
+
+    .menu-top li a:hover {
+      color: #ff6000;
+    }
+/* Top Menu Finish */
+
+
+
+/* Navigation Start */
+.menu-main {
+  background: url("/assets/navigation.png") no-repeat left top;
+  float: right;
+  height: 70px;
+  padding: 8px 0 0 30px;
+  position: relative;
+  overflow: hidden;
+  height: 70px;
+  width: 756px;
+}
+
+  .menu-main li {
+    float: left;
+    margin: 4px 0 0 4px;
+  }
+
+    .menu-main li#current a,
+    .menu-main li.active a {
+      background-position: left bottom;
+    }
+
+    .menu-main li a {
+      background: url('/assets/tab.gif') left top;
+      color: #fff;
+      display: block;
+      height: 24px;
+      padding: 2px 37px 0;
+      text-align: center;
+      text-decoration: none;
+    }
+
+    .menu-main li:hover a,
+    .menu-main li a:hover {
+      background-position: left bottom;
+      color: #fff;
+    }
+
+
+      /* Subnavigation Start */
+      .menu-main li#current ul,
+      .menu-main li.active ul,
+      .menu-main li:hover ul {
+        display: block;
+      }
+
+      .menu-main li:hover ul {
+        z-index: 2;
+      }
+
+      .menu-main li ul {
+        background-color: #ffc715;
+        display: none;
+        height: 30px;
+        left: 30px;
+        padding-top: 10px;
+        position: absolute;
+        top: 38px;
+        width: 756px;
+      }
+
+
+      .menu-main li ul li {
+        color: #515151;
+        float: none;
+        display: inline;
+        border-left: 1px solid #515151;
+        padding: 0 8px;
+        margin: 0;
+      }
+
+        .menu-main li:hover ul a,
+        .menu-main li ul a {
+          background: none;
+          color: #515151;
+          display: inline;
+          padding: 0;
+        }
+
+        .menu-main li ul a:hover {
+          color: #fff;
+        }
+
+        .menu-main li li.active ul {
+          display: block;
+        }
+    /* Subnavigation Finish */
+/* Navigation Finish */

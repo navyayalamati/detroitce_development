@@ -1,0 +1,103 @@
+body {
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: #767676;
+    font: 12px/1.6 arial,helvetica,tahoma,sans-serif;
+} 
+.container{
+    padding-top: 9%;
+    background-color: #fff;
+}
+.gray-container{
+    padding-top: 2%;
+    background-color:  #333333;
+    height: 45px;
+  
+ 
+}
+#slogan {
+    color: #030303;
+    float: left;
+    font-size: 200%;
+    font-weight: bold;
+    line-height: 1;
+    margin: 50px 0 21px 90px;
+}
+.yellow
+{
+    background-color: #FEC714;
+}
+
+#phone {
+    color: #030303;
+    float: left;
+    font-size: 200%;
+    font-weight: bold;
+}
+.menu-top a {
+    color: #535353;
+    text-decoration: none;
+    font-size: 90%;
+}
+.navbar-default {
+    
+    position: fixed;
+    border-radius: 0;
+    background-color: #CECECE;
+    width: 1300px;
+    height: 42%;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:active,
+.navbar-default .navbar-brand.active {
+    color: #fff;
+}
+
+.navbar-default .navbar-collapse {
+    
+    
+    border-color: rgba(255,255,255,.02);
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #5c4384;
+    background-color: #5c4384;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #000;
+}
+
+.navbar-default .nav li a {
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #000;
+}
+
+
+.navbar-default .nav li a:hover,
+.navbar-default .nav li a:focus {
+    outline: 0;
+    color: #fff;
+}
+.navbar-default .navbar-nav>.active>a {
+    border-radius: 0;
+    color: #fff;
+    background-color: #5c4384;
+}
+
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #fff;
+    background-color: #17d0d5;
+}
+//-----------------------Css from Website

@@ -1,0 +1,206 @@
+/**
+* @version 1.0.0
+* @package RSFiles! 1.0.0
+* @copyright (C) 2009 www.rsjoomla.com
+* @license GPL, http://www.gnu.org/copyleft/gpl.html
+*/
+
+.rsflError{
+	border:1px solid red;
+}
+
+.rsfl_screenshots{
+	padding:10px 10px 20px;
+
+}
+
+div.rsfl_screenshots img{
+	padding: 5px;
+}
+
+.rsfl_download_btn{
+    display: block;
+    height: 64px;
+	margin-top:25px;
+    text-align: right;
+    text-decoration: none !important;
+    width: 30%;
+	float:left;
+}
+
+a.rsfl_download_btn img{
+	vertical-align: middle;
+}
+
+div.rsfl_mirrors img {
+	vertical-align: middle;
+}
+
+div.rsfl_mirrors a {
+	text-decoration:none !important;
+}
+
+.button{
+	text-decoration:none !important;
+}
+
+.rsfiles-pagination{
+	text-align:center !important;
+}
+
+.rsfl_pageslinks{
+	text-align:center !important;
+}
+
+div.rse_loading {
+	background: #fff url('../../images/icons/loader.gif') no-repeat fixed center;
+	left:0;
+	opacity:0.6;
+	filter: alpha(opacity = 50);
+	position:absolute;
+	top:0;
+	width:100%;
+	z-index:100;
+}
+
+table.rsfl_table{
+	width: 100%;
+	border-spacing: 1px;
+	background-color:#E7E7E7;
+}
+
+table.rsfl_table thead th {
+	background:none repeat scroll 0 0 #F0F0F0;
+	border-bottom:1px solid #999999;
+	border-left:1px solid #FFFFFF;
+	color:#666666;
+}
+
+table.rsfl_table td, table.rsfl_table th {
+	padding:4px;
+}
+
+#main a:hover, #main a:active, #main a:focus
+{
+	background:none !important;
+	color:#095197 !important;
+}
+
+#rsfl_files_table {
+	margin-bottom:5px;
+	border:1px solid #cccccc;
+	background:#F8F8F8;
+	padding: 5px;
+	width:100%;
+}
+
+#rsfl_files_table tr, #rsfl_files_table td {
+	border: none;
+}
+
+#rsfl_files_table tr, #rsfl_files_table td {
+	padding: 5px;
+	border-bottom: 1px solid #CCCCCC !important;
+}
+
+#rsfiles_download {
+	width: 100%;
+}
+
+.rsfiles_table_bottom {
+	border-left: 1px solid #CCCCCC !important;
+    border-top: 1px solid #CCCCCC !important;
+    margin-bottom: 5px;
+}
+
+.rsfiles_table_bottom td , .rsfiles_table_bottom tr {
+	border: none;
+}
+
+.rsfiles_table_bottom td {
+    border-bottom: 1px solid #CCCCCC !important;
+    border-right: 1px solid #CCCCCC !important;
+    padding: 10px 5px;
+}
+
+.rsfiles_clear {
+	width: 100%;
+	height: 10px;
+	clear: both;
+	display: block;
+	font-size: 1px;
+	line-height: 1px;	
+}
+
+.rsfiles_download {
+	background-color: #EFF3FB;
+    border: 1px solid #8BA7CD;
+    margin: 20px;
+    width:90%;
+	padding:2%;
+	float:left;
+}
+
+.rsfiles_details {
+	font-size: 2.2em;
+    font-style: italic;
+    padding: 5px;
+}
+
+.rsfiles_details img {
+	vertical-align: middle;
+}
+
+#rsfl_nrpgr
+{
+	float:right;
+	font-weight:bold;
+	margin-top:3px;
+}
+#rsfl_progress_bar
+{
+	border:1px solid black;
+	width:110px;
+	height:10px;
+	float:right;
+	margin:5px 2px 2px 2px;
+}
+div#rsfl_progress_bar > span#rsfl_progress
+{
+	background:green;
+	text-align:center;
+	float:left;
+	display:block;
+	color:white;
+	height:100%;
+}
+
+div.rsfl_pageslinks ul {
+	list-style-type: none !important;
+}
+
+div.rsfl_pageslinks ul li {
+	float: left;
+}
+
+img.rsfl_popular {
+	vertical-align: middle;
+	margin-left: 2px;
+}
+
+.rsfl_toolbar tr, .rsfl_toolbar td  {
+	border: none !important;
+}
+
+.rsfl_search_table tr, .rsfl_search_table td {
+	border: none !important;
+}
+
+.rsfl_tables tr, .rsfl_tables td {
+	border: none !important;
+}
+
+.rsfl_captcha { float:left;width:55%;}
+.rsfl_captcha label {float:left;width:100%;}
+.rsfl_captcha input {margin-top:5px;}
+#rsfl_refresh_captcha{position:relative;left:-20px;}
